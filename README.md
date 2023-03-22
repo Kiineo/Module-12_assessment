@@ -1,4 +1,4 @@
 # Module-12_assessment
 assessment
 
-Group capstone incloding Caesar Shift, Polybius Square, and Substitution Cypher.
+Group capstone including Caesar Shift, Polybius Square, and Substitution Cypher.
